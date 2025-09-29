@@ -1,0 +1,162 @@
+---
+title: "Tarjetas de debito"
+author:
+  name: "Atziri Amairany Arenas Jimenez, Gisela Yamilet Cruz Herrera
+  Ulises Salvador Aguilar Reyes, Javier Eduardo Ortiz Galeana, Marco Antonio Hernandez Rojas, Francisco Javier Sanchez Lopez y Mya Camila Esquivel Villanueva"
+  affiliation: "Universidad Michoacana de San Nicolas de Hidalgo"
+  email: 
+    -"2408829f@umich.mx"
+    -"2230776e@umich.mx"
+    -"2408847k@umich.mx"
+    -"2408817c@umich.mx" 
+    -"2431507b@umich.mx" 
+    -"2408830x@umich.mx" 
+    -"2408850j@umich.mx"
+format: 
+  revealjs:
+    theme: sky
+    logo: logo.png
+    transition: zoom
+    center: true
+    download: true
+  pdf: default
+---
+
+## ¿QUE SON LAS TARJETAS DE DEBITO?
+
+Una tarjeta de débito es una tarjeta bancaria que te permite pagar o retirar dinero usando directamente el saldo que ya tienes en tu cuenta. No es crédito: solo gastas lo que hay en tu cuenta.
+
+## Diferencias con tarjetas de crédito
+
+•	Débito: solo gastas lo que tienes en tu cuenta.
+
+•	Crédito: el banco te presta dinero y luego tienes que pagarlo.
+
+•	En débito no pagas intereses, en crédito sí, si no liquidas a tiempo.
+
+•	La crédito ayuda a generar historial crediticio, la débito no.
+
+## Breve historia en México y el mundo
+
+•	En el mundo, aparecieron en Estados Unidos en los años 70 y se hicieron comunes en los 80 y 90 con el avance de las redes de pago como Visa y Mastercard.
+
+•	En México, llegaron en los 90 y desde entonces se volvieron muy populares. Hoy casi cualquier cuenta bancaria viene con una tarjeta de débito, incluso en bancos digitales y apps móviles.
+
+## Relación con la Cuenta Bancaria (Fondos Propios)
+
+La característica más definitoria de la tarjeta de débito es su vínculo con tu cuenta personal.
+
+    *El Vínculo Directo
+
+    *Principio de "No Deuda"
+
+    *El Límite es tu Saldo
+    
+## Disponibilidad inmediata del dinero
+ 
+La tarjeta de débito ofrece acceso instantáneo a tu dinero, tanto para pagos como para retiradas de efectivo.
+ 
+    *Deducción al Instante
+  
+    *Acceso 24/7 a Efectivo (Retiros)
+  
+    *Retiros en ciertos establecimientos
+  
+    *Conocimiento de los ingresos 
+  
+## Ventajas en Comparación con el Uso de Efectivo
+
+La tarjeta de débito moderniza la forma en que gastamos, superando los inconvenientes del dinero físico.
+
+    *Seguridad Superior
+    
+    * Conveniencia Universal
+
+    *Control de gastos y trazabilidad
+
+## Posibles cargos por manejo de cuentas
+
+Las tarjetas de débito suelen estar ligadas a una cuenta bancaria. Algunos bancos ofrecen cuentas sin costo, pero otros aplican cargos de mantenimiento mensuales o anuales.
+Por ejemplo: Si no mantenemos un saldo mínimo pueden cobrarnos una cuota fija, esto significa que, aunque no usemos la tarjeta, podemos perder dinero solo por tenerla activa. Algunos bancos piden conservar entre mil y cinco mil pesos para exentar la comisión. 
+
+## Comisiones por retiros en cajeros automáticos
+
+Cuando retiramos dinero en cajeros de nuestro mismo banco, por lo general es gratis. Sin embargo, si usamos un cajero de otra institución, se nos puede cobrar una comisión que puede ir desde los 15 hasta más de 40 pesos por retiro dependiendo del banco. Algunas instituciones incluso cobran por consultar el saldo en cajeros que no son de su red. Por eso, se recomienda planificar los retiros y tratar de utilizar siempre cajeros del mismo banco.
+
+
+## Importancia de leer el contrato con el banco
+
+El contrato que firmamos al abrir una cuenta incluye todas las condiciones de uso de la tarjeta de débito. Allí se especifican los tipos de comisiones, los límites de operación y también los derechos y obligaciones del cliente. Muchas personas no leen este documento y se sorprenden después con cargos por reposición de tarjeta en caso de extravío, por transferencias electrónicas, o incluso por inactividad cuando la cuenta no se utiliza durante meses. Leer el contrato permite evitar sorpresas y tomar decisiones informadas.
+
+## Riesgos: clonación, fraude, robo.
+
+SKIMMERS
+
+Consiste en la reproducción ilegal de la información de tu tarjeta bancaria mediante un dispositivo clandestino, conocido como skimmer, que se instala en cajeros automáticos, datáfonos o cualquier terminal donde se realicen pagos con tarjeta.
+
+## ¿Cómo funcionan?
+
+Estos skimmers funcionan captando los datos de la banda magnética de tu tarjeta cuando la deslizas por el lector. Además, una minicámara oculta para capturar tu clave secreta. 
+
+Utilizando los datos recogidos, los delincuentes pueden crear tarjetas clonadas para realizar compras fraudulentas o cajeros electrónicos. Por ello, es vital estar informados sobre las tácticas que usan estos defraudadores para evitar ser víctimas y proteger nuestra privacidad y seguridad financiera.
+
+## Uso del NIP y tecnologías como chip o contactless
+
+La tecnología contactless, o NFC (Near Field Communication), permite realizar pagos sin necesidad de deslizar o insertar la tarjeta en un lector.
+	
+## Uso seguro del NIP
+
+Para un uso seguro del NIP, nunca lo compartas con nadie, memorízalo en lugar de escribirlo, y cambia el NIP periódicamente, evitando combinaciones obvias como tu fecha de nacimiento o secuencias numéricas simples.
+
+## Impacto en la planeacion financiera personal.
+
+   *Control de gasto
+   
+   *Registro de movimientos en estado de cuenta
+   
+   *Administracion de presupuesto
+   
+  
+## Control de gasto
+  En lo concerniente al control de gasto, la ventaja de las tarjetas de debito frente a las de credito es que al estar lugadas a una cuenta bancaria de fondos propios, el debito impide gastar mas de lo que se tiene. Asi el debito ayuda a evitar deudas o cargos extra que compliquen las finanzas personales.
+  
+## Registro de movimientos en estado de cuenta.
+La tarjeta de bedito actua como una herramienta de registro financiero, dado que cada transaccion queda grabada en el estado de cuenta bancario. Este registro permite al usuario revisar sus gastos y compararlo con su presupuesto. Segun el INEGI, alrededor del 53% de los adultos declaran hacer un control o registro de sus gastos.
+
+## Como ayuda en la administracion de presuspuesto.
+La tarjeta de credito aporta herramientas fundamentales en la administracion de presupuesto: control auromatico de gasto, registros detallados y facilidades digitales para el seguimiento. Al usarla de forma conciente se refuerza el habito de vivir dentro del presupuesto.
+
+## Ejemplo practico (comisiones por cajeros ajenos)
+BBVA cobra un aproximado de $34 pesos por retirar en cajeros que son de su banco.Si hacemos 6 retiros al mes en caejros ajenos, pagariamos:
+
+6x34=204 pesos al mes
+
+En un año:
+
+204x12=2,448 pesos al año
+
+## Ejemplo de interes perdido
+En varios bancos la mayoria no ofrece un rendimiento por tener tu dinero dentro de ellos, una excepciòn seria la cuenta de debito Nu. 
+Ellos ofrecen hasta un 8.05% anual en su apartado en cajitas de ahorro.
+
+Imaginemos que tenemos 20,000 pesos, los metemos a la cajita Nu por un año:
+
+20,000x0.0805=1,610 pesos
+
+Eso es lo que estariamos ganando si lo metemos en el apartado de rendimiento
+
+## Uso en pagos digitales y apps bancarias
+
+Este año, se prevé que los pagos con débito amplíen sus capacidades digitales, adopten casos de uso de pago en tiempo real e impulsen la adopción del pago por banco.
+
+## Sustitucion progresiva del efectivo
+
+En un mercado de pagos dinámico, las tarjetas de débito pueden resultar algo convencionales. Sin embargo, los consumidores siguen prefiriendo su fiabilidad al efectivo, actualmente se encuentran muy presentes, generando una devaluacion del efectivo
+
+## Integracion con billeteras digitales
+
+La integración de tarjetas de débito en billeteras móviles será una de las tendencias más importantes en el espacio en 2025. Los emisores deberán respaldar los pagos de débito digitales, y ofrecer recompensas puede ayudar a endulzar el trato para los usuarios leales de tarjetas de débito.
+
+## Descargar presentación
+
+[📥 Descargar PDF de las diapositivas](equipo2.pdf)
