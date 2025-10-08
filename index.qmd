@@ -190,4 +190,4 @@ La integración de tarjetas de débito en billeteras móviles será una de las t
 
 ## Descargar presentación
 
-[📥 Descargar PDF de las diapositivas](equipo2.pdf)
+[📥 Descargar PDF de las diapositivas](index.pdf)
