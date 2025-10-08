@@ -135,6 +135,37 @@ En un año:
 
 204x12=2,448 pesos al año
 
+## Ejemplo practico (interes simple)
+Un banco ofrece una tasa de interés simple anual del 4 % sobre el saldo promedio mensual que mantengas en tu cuenta de débito.
+
+Supón que depositas $10000 y no haces retiros ni depósitos durante 6 meses.
+
+Calcula cuánto interés ganarías al final de los 6 meses.
+
+Datos: 
+
+valor actual(VA) = 10000
+
+tasa de interes anual (r) = 4% = 0.04
+
+tiempo (n) = 6 meses = 6/12 = 0.5 años
+
+#
+
+Formulas: 
+
+INTERES = VA (r x n)
+
+INTERES = 10000(0.04 x 0.5) = $200
+
+VF = VA (1+r(n))
+
+Como ya calculamos el interes tenemos VF = VA + INTERES
+
+VF = 10000 + 200 = $10200
+
+Después de 6 meses, el banco te pagaría $200 de interés simple por tener tu dinero en la tarjeta de débito, y tu saldo sería $10200
+
 ## Ejemplo de interes perdido
 En varios bancos la mayoria no ofrece un rendimiento por tener tu dinero dentro de ellos, una excepciòn seria la cuenta de debito Nu. 
 Ellos ofrecen hasta un 8.05% anual en su apartado en cajitas de ahorro.
